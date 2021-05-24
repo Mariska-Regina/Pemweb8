@@ -994,5 +994,7 @@ echo $pesan_sukses;
 ?>
 
 <center><button onclick="location.href = 'cetakexcel.php';" id="cetak" class="btn btn-warning" >Cetak File Excel</button></center>
+
+<center><button onclick="location.href = 'cetakpdf.php';" id="cetakpdf" class="btn btn-success" >Cetak File PDF</button>
 </body>
 </html>
